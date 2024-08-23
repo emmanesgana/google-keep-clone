@@ -12,7 +12,7 @@ This is a simple Google Keep clone project. The purpose of this project is to pr
 
 [Demo](https://nuutri-google-keep-clone.netlify.app/)
 
-## Sceenshot
+## Screenshot
 
 ![Screenshot](https://github.com/emmanesgana/google-keep-clone/blob/main/preview/Preview.png)
 
