@@ -1,6 +1,6 @@
 ## Overview
 
-This is a simple Google Keep clone project.
+This is a simple Google Keep clone project. The purpose of this project is to practice class-based vanilla JS coding and DOM manipulation.
 
 ### Features
 
